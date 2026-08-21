@@ -149,7 +149,7 @@ export default {
   (`TRADE_CASES`, `CUSTOMERS`, `FIELD_SCHEMAS`, `RULE_DEFINITIONS`,
   `RULE_EXECUTION_RESULTS`, `DEMO_ALERTS`, `INITIAL_AUDIT_LOG`, etc.)
 - **Analyst name/avatar** — in the sidebar footer at the bottom of the `App`
-  component (search for `P. Nandakumar` / `PN`)
+  component (search for `Surajkumar Rai` / `PN`)
 - **Rules** — add or edit entries in `RULE_DEFINITIONS` (shown on the Rule
   Engine and Configuration pages) and `RULE_EXECUTION_RESULTS` (shown after
   running TBML checks)
